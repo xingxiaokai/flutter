@@ -1,0 +1,101 @@
+PODS:
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_easy_permission (0.0.1):
+    - Flutter
+    - LBXPermission/Base
+  - flutter_scankit (0.0.1):
+    - Flutter
+    - ScanKitFrameWork (~> 1.0.2.300)
+  - flutter_webview_plugin (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - LBXPermission/Base (1.1.1)
+  - LBXPermission/Calendar (1.1.1)
+  - LBXPermission/Camera (1.1.1)
+  - LBXPermission/Contact (1.1.1)
+  - LBXPermission/Health (1.1.1)
+  - LBXPermission/Location (1.1.1)
+  - LBXPermission/Microphone (1.1.1)
+  - LBXPermission/Net (1.1.1)
+  - LBXPermission/Notification (1.1.1)
+  - LBXPermission/Photo (1.1.1)
+  - LBXPermission/Reminder (1.1.1)
+  - LBXPermission/Tracking (1.1.1)
+  - linker (0.0.1):
+    - Flutter
+  - ScanKitFrameWork (1.0.2.300)
+  - Toast (4.0.0)
+  - url_launcher (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_easy_permission (from `.symlinks/plugins/flutter_easy_permission/ios`)
+  - flutter_scankit (from `.symlinks/plugins/flutter_scankit/ios`)
+  - flutter_webview_plugin (from `.symlinks/plugins/flutter_webview_plugin/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - LBXPermission/Calendar
+  - LBXPermission/Camera
+  - LBXPermission/Contact
+  - LBXPermission/Health
+  - LBXPermission/Location
+  - LBXPermission/Microphone
+  - LBXPermission/Net
+  - LBXPermission/Notification
+  - LBXPermission/Photo
+  - LBXPermission/Reminder
+  - LBXPermission/Tracking
+  - linker (from `.symlinks/plugins/linker/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - LBXPermission
+    - ScanKitFrameWork
+    - Toast
+
+EXTERNAL SOURCES:
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  flutter_easy_permission:
+    :path: ".symlinks/plugins/flutter_easy_permission/ios"
+  flutter_scankit:
+    :path: ".symlinks/plugins/flutter_scankit/ios"
+  flutter_webview_plugin:
+    :path: ".symlinks/plugins/flutter_webview_plugin/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  linker:
+    :path: ".symlinks/plugins/linker/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_easy_permission: c86b9ceee7b07cc0f491d2a2d70067b3af06f34b
+  flutter_scankit: 16936d86b3de3f83c122e763f4c24c5da214c78f
+  flutter_webview_plugin: ed9e8a6a96baf0c867e90e1bce2673913eeac694
+  fluttertoast: 6122fa75143e992b1d3470f61000f591a798cc58
+  LBXPermission: e7f860ce1280599fc196a8c5dee713cbb81354d4
+  linker: 5134ad711d418a880024fcf49a02a514e927442b
+  ScanKitFrameWork: 0ad578f3db0ef9b64dd0f533d10d10a52ce93c80
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  webview_flutter: 3603125dfd3bcbc9d8d418c3f80aeecf331c068b
+
+PODFILE CHECKSUM: 162197308190532d706abae63af911aaeeea9013
+
+COCOAPODS: 1.11.2
